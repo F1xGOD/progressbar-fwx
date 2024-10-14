@@ -9,7 +9,7 @@
                                               
                                                            
 FixCraft® Inc. ProggresBAR Copyright ©
-Version - v1.0 😎 OCT 13 2024
+Version - v1.1 😎 OCT 13 2024
 By F1xGOD 💀
 </pre>
 

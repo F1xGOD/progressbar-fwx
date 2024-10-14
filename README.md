@@ -15,10 +15,10 @@ Donate Crypto (Monero)
 48BKksKRWEgixzz1Yec3BH54ybDNCkmmWHLGtXRY42NPJqBowaeD5RTELqgABD1GzBT97pqrjW5PJHsNWzVyQ8zuL6tRBcY
 </pre>
 
-![GitHub license](https://img.shields.io/github/license/F1xGOD/FixCraftVPN?style=flat)
-![GitHub issues](https://img.shields.io/github/issues/F1xGOD/FixCraftVPN?label=Issues)
-![GitHub stars](https://img.shields.io/github/stars/F1xGOD/FixCraftVPN)
-![GitHub forks](https://img.shields.io/github/forks/F1xGOD/FixCraftVPN)
+![GitHub license](https://img.shields.io/github/license/F1xGOD/progressbar-fwx?style=flat)
+![GitHub issues](https://img.shields.io/github/issues/F1xGOD/progressbar-fwx?label=Issues)
+![GitHub stars](https://img.shields.io/github/stars/F1xGOD/progressbar-fwx)
+![GitHub forks](https://img.shields.io/github/forks/F1xGOD/progressbar-fwx)
 [![Discord](https://img.shields.io/discord/1130897522051788821?color=7289da&label=Discord&logo=discord&logoColor=ffffff)](https://discord.gg/3eRHYkjgk8)
 [![Patreon](https://img.shields.io/endpoint.svg?url=https%3A%2F%2Fshieldsio-patreon.vercel.app%2Fapi%3Fusername%3DF1xGOD%26type%3Dpatrons)](https://patreon.com/F1xGOD)
 

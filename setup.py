@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
 	name='progressbar-fwx',
-	version='1.1',
+	version='1.2',
 	packages=find_packages(),
 	install_requires=["colorama"],
 	description = 'Best And Most LightWeigt Progressbar Displayer!',

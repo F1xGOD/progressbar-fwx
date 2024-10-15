@@ -19,7 +19,7 @@ class progress:
   def prt(prg, amo, oof):
     self=progress()
     if amo == oof:
-        print(f"\r{Fore.WHITE}{title}{Fore.WHITE}({Fore.WHITE}❚❚❚❚❚❚❚❚❚❚) - 100%  {oof}/{oof} {Fore.GREEN}✓{Fore.WHITE}")
+        print(f"\r{self.Fore.WHITE}{title}{self.Fore.WHITE}({self.Fore.WHITE}❚❚❚❚❚❚❚❚❚❚) - 100%  {oof}/{oof} {self.Fore.GREEN}✓{self.Fore.WHITE}")
     else:
         print(f"\r{self.Fore.WHITE}{title}{self.Fore.WHITE}(" + ((f"{self.Fore.WHITE}❚" * int(prg / 10)) + f"{self.Fore.BLACK}❚" * int(10 - int(prg / 10))) + f"{self.Fore.WHITE}) {self.Fore.BLACK}- " + f"{self.Fore.WHITE}{prg}%  {amo}/{oof}", end="")
   prt(amount, amo, oof)

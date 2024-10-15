@@ -1,6 +1,6 @@
 [project]
 name = "progressbar-fwx"
-version = "1.3"
+version = "1.4"
 authors = [
   { name="F1xGOD", email="f1xgodim@gmail.com" },
 ]

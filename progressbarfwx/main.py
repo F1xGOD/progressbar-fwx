@@ -16,10 +16,10 @@ class progress:
  @staticmethod
  def setprecent(title: str, amo, oof):
   amount=int((amo/oof)*100)
-  def prt(progress, amo, oof):
+  def prt(prg, amo, oof):
     self=progress()
     if amo == oof:
         print(f"\r{Fore.WHITE}{title}{Fore.WHITE}({Fore.WHITE}❚❚❚❚❚❚❚❚❚❚) - 100%  {oof}/{oof} {Fore.GREEN}✓{Fore.WHITE}")
     else:
-        print(f"\r{self.Fore.WHITE}{title}{self.Fore.WHITE}(" + ((f"{self.Fore.WHITE}❚" * int(progress / 10)) + f"{self.Fore.BLACK}❚" * int(10 - int(progress / 10))) + f"{self.Fore.WHITE}) {self.Fore.BLACK}- " + f"{self.Fore.WHITE}{progress}%  {amo}/{oof}", end="")
+        print(f"\r{self.Fore.WHITE}{title}{self.Fore.WHITE}(" + ((f"{self.Fore.WHITE}❚" * int(prg / 10)) + f"{self.Fore.BLACK}❚" * int(10 - int(prg / 10))) + f"{self.Fore.WHITE}) {self.Fore.BLACK}- " + f"{self.Fore.WHITE}{prg}%  {amo}/{oof}", end="")
   prt(amount, amo, oof)
